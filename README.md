@@ -1,3 +1,3 @@
-# NightFrame Updates
+# NightFrame
 
-Release assets and update metadata for the NightFrame desktop updater. This repository does not contain app source code.
+NightFrame desktop app releases.
