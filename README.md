@@ -47,7 +47,8 @@ NightFrame is a Windows desktop app for Warframe Market trading. It keeps your s
 ### Local data and updates
 
 - Stores stock, settings, trade history, and app data locally in `nightframe.db`.
-- Exports backups as JSON or CSV and restores NightFrame JSON backups.
+- Can keep automatic `nightframe.db` backups in the user's Google Drive and restore them on another PC.
+- Keeps WFM login details and device data out of Google Drive backups.
 - Checks for new versions and lets you install them from inside the app.
 
 ## Download
